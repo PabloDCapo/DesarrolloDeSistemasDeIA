@@ -5,8 +5,10 @@ n° 24, cursada con el profesor Erik Ravello.
 
 ## Contenido
 
-- Regresión lineal
-- Regresión polinómica
-- Arboles de decisión
-- K Vecinos más cercanos
-- Naive Bayes
+- Análisis EDA
+- Análisis estadístico
+- Limpieza de datos
+- Encoders
+- Algoritmos de regresión y clasificación
+- Algoritmos de agrupación
+- Red Neuronal
